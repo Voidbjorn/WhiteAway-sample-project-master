@@ -32,7 +32,7 @@ protected static function method() {
     return "methods test ";
   }
 
-  Movie::method();
+  // Movie::method();
 
 
 
